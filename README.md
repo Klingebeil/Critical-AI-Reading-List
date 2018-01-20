@@ -1,4 +1,4 @@
-# Critical-AI-Reading-List
+# A Critical AI Reading List for Journalists
 A critical reading list on AI technologies for journalists.
 
 ## Function
