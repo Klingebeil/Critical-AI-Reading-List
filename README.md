@@ -12,6 +12,8 @@ A critical reading list on AI technologies for journalists.
 **[What can machine learning do? Workforce implications](http://science.sciencemag.org/content/358/6370/1530)** (December 22, 2017). Erik Brynjolfsson, Tom Mitchell. Science.
 
   A great article on the characteristics a task needs to have, to be automated by a machine learning system.
+  
+ > Although recent advances in the capabilities of ML systems are impressive, they are not equally suitable for all tasks. The cur- rent wave of successes draw particularly heavily on a paradigm known as supervised learning, typically using DNNs. They can be immensely powerful in domains that are well suited for such use. However, their competence is also dramatically narrower and more fragile than human decision-making, and there are many tasks for which this approach is completely ineffective
 
 
 
