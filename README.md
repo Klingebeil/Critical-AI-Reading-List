@@ -15,7 +15,7 @@ Gary Marcus' view on deep learning is more critical, than the Berkeley overview.
 
 A summary can be found in this Wired Article [Wise up, deep learning may never create a general purpose AI](http://www.wired.co.uk/article/deep-learning-automl-cloud-gary-marcus) (January 20, 2018) by Greg Williams.
 
-**[Innateness, AlphaZero, and Artificial Intelligence]**(https://arxiv.org/pdf/1801.05667.pdf). (n.a.). Marcus, Gary. New York University
+**[Innateness, AlphaZero, and Artificial Intelligence](https://arxiv.org/pdf/1801.05667.pdf)**. (n.a.). Marcus, Gary. New York University
 
 >  In this paper, I consider as a test case a recent series of papers by Silver et al (Silver et al., 2017a) on AlphaGo and its successors that have been presented as an argument that a “even in the most challenging of domains: it is possible to train to superhuman level, without human examples or guidance”, “starting tabula rasa.” I argue that these claims are overstated, for multiple reasons. I close by arguing that artificial intelligence needs greater attention to innateness, and I point to some proposals about what that innateness might look like.  
 
