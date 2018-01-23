@@ -7,6 +7,14 @@ A critical reading list on AI technologies for journalists.
 
 **[A Berkeley View of Systems Challenges for AI](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.html)** (December 15, 2017) Ion Stoica, Dawn Song, Raluca Ada Popa, David Pa erson, Michael W. Mahoney, Randy Katz, Anthony D. Joseph, Michael Jordan, Joseph M. Hellerstein, Joseph Gonzalez, Ken Goldberg, Ali Ghodsi, David Culler, Pieter Abbeel. Berkley EECS
 
+**[Deep Learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf)** (December 18, 2017). Marcus, Gary. New York University
+
+Gary Marcus' view on deep learning is more critical, than the Berkeley overview. He argues, that deep learning wont be enough to ever reach a general artificial intelligence. There are definite limits to the technique.
+
+> Against a background of considerable progress in areas such as speech recognition, image recognition, and game playing, and considerable enthusiasm in the popular press, I present ten concerns for deep learning, and suggest that deep learning must be supplemented by other techniques if we are to reach artificial general intelligence.
+
+A summary can be found in this Wired Article [Wise up, deep learning may never create a general purpose AI](http://www.wired.co.uk/article/deep-learning-automl-cloud-gary-marcus) (January 20, 2018) by Greg Williams.
+
 ## AI & Jobs
 
 **[What can machine learning do? Workforce implications](http://science.sciencemag.org/content/358/6370/1530)** (December 22, 2017). Erik Brynjolfsson, Tom Mitchell. Science.
