@@ -23,7 +23,7 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 
 ## AI & Jobs
 
-**[What can machine learning do? Workforce implications](http://science.sciencemag.org/content/358/6370/1530)** (December 22, 2017). Erik Brynjolfsson, Tom Mitchell. Science.
+**[What can machine learning do? Workforce implications](http://www.cs.cmu.edu/~tom/pubs/Science_WorkforceDec2017.pdf)** (December 22, 2017). Erik Brynjolfsson, Tom Mitchell. Science.
 
   A great article on the characteristics a task needs to have, to be automated by a machine learning system.
   
