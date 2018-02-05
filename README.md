@@ -47,6 +47,13 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 
 ## Criticism
 
+**[The Wired Brain: How not to talk about an AI-powered Future](https://ines.io/blog/wired-brain-ai-powered-future)** (March 9., 2017). Montanani, Ines.
+
+  Some good thoughts about the representation of AI in the media and ideas on how to better report on AI.
+  
+  > The new opportunities emerging from Machine Learning are very tempting. The wildest scenarios from decades of futuristic science fiction are suddenly (almost) possible. But does that mean they're actually the most practical things to build? The problem here lies in how those fictional ideas were conceived. The way people imagine technology of the future is heavily biased by their current experiences and expectations.
+
+
 **[The Smart, the Stupid, and the Catastrophically Scary: An Interview with an Anonymous Data Scientist](https://logicmag.io/01-interview-with-an-anonymous-data-scientist/)** (November 2016). n.A.. Logic Magazine, Issue 01: Intelligence.
   
   An Interview with an anonymous data scientists on the relationship between big data and machine learning, the artifical marketing hype and limits of the technology. Highly recommended reading.
