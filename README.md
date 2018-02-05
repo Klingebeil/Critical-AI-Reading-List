@@ -15,19 +15,25 @@ A course including 12 video lectures (about 50 minutes each) on the technical de
 
 ## Limitations and challenges of AI
 
-**[A Berkeley View of Systems Challenges for AI](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.html)** (December 15, 2017) Ion Stoica, Dawn Song, Raluca Ada Popa, David Pa erson, Michael W. Mahoney, Randy Katz, Anthony D. Joseph, Michael Jordan, Joseph M. Hellerstein, Joseph Gonzalez, Ken Goldberg, Ali Ghodsi, David Culler, Pieter Abbeel. Berkley EECS
+**[A Berkeley View of Systems Challenges for AI](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.html)** (December 15, 2017) Ion Stoica, Dawn Song, Raluca Ada Popa, David Pa erson, Michael W. Mahoney, Randy Katz, Anthony D. Joseph, Michael Jordan, Joseph M. Hellerstein, Joseph Gonzalez, Ken Goldberg, Ali Ghodsi, David Culler, Pieter Abbeel. Berkley EECS.
 
-**[Deep Learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf)** (December 18, 2017). Marcus, Gary. New York University
+**[Deep Learning: A Critical Appraisal](https://arxiv.org/pdf/1801.00631.pdf)** (December 18., 2017). Marcus, Gary. New York University.
 
 Gary Marcus' view on deep learning is more critical, than the Berkeley overview. He argues, that deep learning wont be enough to ever reach a general artificial intelligence. There are definite limits to the technique.
 
 > Against a background of considerable progress in areas such as speech recognition, image recognition, and game playing, and considerable enthusiasm in the popular press, I present ten concerns for deep learning, and suggest that deep learning must be supplemented by other techniques if we are to reach artificial general intelligence.
 
-A summary can be found in this Wired Article [Wise up, deep learning may never create a general purpose AI](http://www.wired.co.uk/article/deep-learning-automl-cloud-gary-marcus) (January 20, 2018) by Greg Williams.
+A summary can be found in this Wired Article [Wise up, deep learning may never create a general purpose AI](http://www.wired.co.uk/article/deep-learning-automl-cloud-gary-marcus) (January 20., 2018) by Greg Williams.
 
 **[Innateness, AlphaZero, and Artificial Intelligence](https://arxiv.org/pdf/1801.05667.pdf)**. (n.a.). Marcus, Gary. New York University
 
->  In this paper, I consider as a test case a recent series of papers by Silver et al (Silver et al., 2017a) on AlphaGo and its successors that have been presented as an argument that a “even in the most challenging of domains: it is possible to train to superhuman level, without human examples or guidance”, “starting tabula rasa.” I argue that these claims are overstated, for multiple reasons. I close by arguing that artificial intelligence needs greater attention to innateness, and I point to some proposals about what that innateness might look like.  
+>  In this paper, I consider as a test case a recent series of papers by Silver et al (Silver et al., 2017a) on AlphaGo and its successors that have been presented as an argument that a “even in the most challenging of domains: it is possible to train to superhuman level, without human examples or guidance”, “starting tabula rasa.” I argue that these claims are overstated, for multiple reasons. I close by arguing that artificial intelligence needs greater attention to innateness, and I point to some proposals about what that innateness might look like.
+
+**[Greedy, Brittle, Opaque, and Shallow: The Downsides to Deep Learning](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/)** (February 02., 2018). Pontin, Jason. Wired.
+
+  A Wired article, which bundles most of the criticism and known limits in a well written post.
+  
+  > We've been promised a revolution in how and why nearly everything happens. But the limits of modern artificial intelligence are closer than we think.
 
 ## AI & Jobs
 
@@ -41,13 +47,17 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 
 ## Criticism
 
-**[Situating Methods in the Magic of Big Data and Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3040201)** (September 20, 2017), Elish, M. C. and Boyd, Danah. Communication Monographs
+**[The Smart, the Stupid, and the Catastrophically Scary: An Interview with an Anonymous Data Scientist](https://logicmag.io/01-interview-with-an-anonymous-data-scientist/)** (November 2016). n.A.. Logic Magazine, Issue 01: Intelligence.
+  
+  An Interview with an anonymous data scientists on the relationship between big data and machine learning, the artifical marketing hype and limits of the technology. Highly recommended reading.
+
+**[Situating Methods in the Magic of Big Data and Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3040201)** (September 20, 2017). Elish, M. C. and Boyd, Danah. Communication Monographs.
 
   Elish and Danah explore the myth around Big Data and AI as "magcial" technologies. The article is worth reading for an insight in the business of AI and Big Data, as well as a critical perspecitve on the real possibilities and challenges of both technologies. A shorter article is available on [Medium](https://points.datasociety.net/dont-call-ai-magic-142da16db408).
   
 > The uncritical embrace of AI technologies has troubling implications for established forms of accountability, and for the protection of our most vulnerable populations. AI is increasingly being positioned as the answer to every question, in part because AI seems to promise not only efficiency and insight, but also neutrality and fairness — ideals that are often viewed as impossible to achieve through individual human or organizational decision-making processes. The fantasies and promises of AI often obscure the limitations of the field and the complicated trade-offs of technical work done under the rubric of “AI.”
 
-**[Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)** (November 27, 2017), Katz, Yarden. 
+**[Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)** (November 27, 2017). Katz, Yarden. 
 
   Definitely one of the most critical views on AI I've read so far. I am not sure, if I would agree with every point, Katz raises, but it‘s a perespective worth considering.
 
