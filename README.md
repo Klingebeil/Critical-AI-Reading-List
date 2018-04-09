@@ -7,7 +7,7 @@ A critical reading list on AI technologies for journalists.
 
 **[Course: Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)** (Fall 2015) Prof. Patrick Henry Winston. MIT.
 
-A course including 12 video lectures (about 50 minutes each) on the technical details of AI. I especially found the two lectures on neural nets helpful, which give a great introduction on the topis.
+A course including 12 video lectures (about 50 minutes each) on the technical details of AI. I especially found the two lectures on neural nets helpful, which give a great introduction on the topic.
 
 - [Part One](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12a-neural-nets)
 - [Part Two](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets)
