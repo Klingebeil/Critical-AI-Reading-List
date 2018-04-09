@@ -60,7 +60,7 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 
 **[Situating Methods in the Magic of Big Data and Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3040201)** (September 20, 2017). Elish, M. C. and Boyd, Danah. Communication Monographs.
 
-  Elish and Boyd explore the myth around Big Data and AI as "magcial" technologies. The article is worth reading for an insight in the business of AI and Big Data, as well as a critical perspecitve on the real possibilities and challenges of both technologies. A shorter article is [available on Medium](https://points.datasociety.net/dont-call-ai-magic-142da16db408).
+  Elish and Boyd explore the myth around Big Data and AI as "nagical" technologies. The article is worth reading for an insight in the business of AI and Big Data, as well as a critical perspecitve on the real possibilities and challenges of both technologies. A shorter article is [available on Medium](https://points.datasociety.net/dont-call-ai-magic-142da16db408).
   
 > The uncritical embrace of AI technologies has troubling implications for established forms of accountability, and for the protection of our most vulnerable populations. AI is increasingly being positioned as the answer to every question, in part because AI seems to promise not only efficiency and insight, but also neutrality and fairness — ideals that are often viewed as impossible to achieve through individual human or organizational decision-making processes. The fantasies and promises of AI often obscure the limitations of the field and the complicated trade-offs of technical work done under the rubric of “AI.”
 
