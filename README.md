@@ -34,6 +34,13 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
   A Wired article, which bundles most of the criticism and known limits in a well written post.
   
   > We've been promised a revolution in how and why nearly everything happens. But the limits of modern artificial intelligence are closer than we think.
+  
+## Better reporting
+**[Troubling Trends in Machine Learning Scholarship](http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/)**. Zachary C. Lipton & Jacob Steinhardt. Approximately Correct.
+
+  Litpon and Steinhardt examined rhetorical and narrative patterns in machine learning papers, published by scientists. While  all are fairly harmless, they nethertheless can irritate a casual reader and lead to a missrepresentation in articles.
+
+> Flawed scholarship threatens to mislead the public and stymie future research by compromising ML’s intellectual foundations. Indeed, many of these problems have recurred cyclically throughout the history of artificial intelligence and, more broadly, in scientific research. [...] By promoting clear scientific thinking and communication, we can sustain the trust and investment currently enjoyed by our community.
 
 ## AI & Jobs
 
