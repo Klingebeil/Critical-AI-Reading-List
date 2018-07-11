@@ -36,7 +36,7 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
   > We've been promised a revolution in how and why nearly everything happens. But the limits of modern artificial intelligence are closer than we think.
   
 ## Better reporting
-**[Troubling Trends in Machine Learning Scholarship](http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/)**. Zachary C. Lipton & Jacob Steinhardt. Approximately Correct.
+**[Troubling Trends in Machine Learning Scholarship](http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/)**(July 10., 2018). Zachary C. Lipton & Jacob Steinhardt. Approximately Correct.
 
   Litpon and Steinhardt examined rhetorical and narrative patterns in machine learning papers, published by scientists. While  all are fairly harmless, they nethertheless can irritate a casual reader and lead to a missrepresentation in articles.
 
