@@ -1,7 +1,7 @@
 # A Critical AI Reading List for Journalists
 A critical reading list on AI technologies for journalists.
 
-## Function
+## How does AI/ML/DL work?
 
 ### Videos
 
@@ -11,6 +11,8 @@ A course including 12 video lectures (about 50 minutes each) on the technical de
 
 - [Part One](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12a-neural-nets)
 - [Part Two](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets)
+
+**[Jason's Machine Learning 101]**(https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit?usp=sharing) (December, 2017) A great an in depth overview over AI, machine learning and deep learning and how all those things actually work, as well as some notes on limitations and challenges.
 
 
 ## Limitations and challenges of AI
