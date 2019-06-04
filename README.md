@@ -33,7 +33,7 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 
 **[Greedy, Brittle, Opaque, and Shallow: The Downsides to Deep Learning](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/)** (February 02., 2018). Pontin, Jason. Wired.
 
-  A Wired article, which bundles most of the criticism and known limits in a well written post.
+  A Wired article, which bundles most of the criticism and known limits of DL/ML.
   
   > We've been promised a revolution in how and why nearly everything happens. But the limits of modern artificial intelligence are closer than we think.
   
@@ -69,7 +69,7 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 
 **[Situating Methods in the Magic of Big Data and Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3040201)** (September 20, 2017). Elish, M. C. and Boyd, Danah. Communication Monographs.
 
-  Elish and Boyd explore the myth around Big Data and AI as "nagical" technologies. The article is worth reading for an insight in the business of AI and Big Data, as well as a critical perspecitve on the real possibilities and challenges of both technologies. A shorter article is [available on Medium](https://points.datasociety.net/dont-call-ai-magic-142da16db408).
+  Elish and Boyd explore the myth around Big Data and AI as "magical" technologies. The article is worth reading for an insight in the business of AI and Big Data, as well as a critical perspecitve on the real possibilities and challenges of both technologies. A shorter versiom is [available on Medium](https://points.datasociety.net/dont-call-ai-magic-142da16db408).
   
 > The uncritical embrace of AI technologies has troubling implications for established forms of accountability, and for the protection of our most vulnerable populations. AI is increasingly being positioned as the answer to every question, in part because AI seems to promise not only efficiency and insight, but also neutrality and fairness — ideals that are often viewed as impossible to achieve through individual human or organizational decision-making processes. The fantasies and promises of AI often obscure the limitations of the field and the complicated trade-offs of technical work done under the rubric of “AI.”
 
@@ -81,6 +81,6 @@ A summary can be found in this Wired Article [Wise up, deep learning may never c
 
 **[Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)** (November 27, 2017). Katz, Yarden. 
 
-  Definitely one of the most critical views on AI I've read so far. I am not sure, if I would agree with every point, Katz raises, but it‘s a perespective worth considering.
+  Definitely one of the most critical views on AI I've read so far. I am not sure, if I agree with every point Katz raises, but it‘s a perspective worth considering.
 
 > I argue here that the "AI" label has been rebranded to promote a contested vision of world governance through big data. Major tech companies have played a key role in the rebranding, partly by hiring academics that work on big data (which has been effectively relabeled "AI") and helping to create the sense that super-human AI is imminent. However, I argue that the latest AI systems are premised on an old behaviorist view of intelligence that's far from encompassing human thought. In practice, the confusion around AI's capacities serves as a pretext for imposing more metrics upon human endeavors and advancing traditional neoliberal policies. The revived AI, like its predecessors, seeks intelligence with a "view from nowhere" (disregarding race, gender and class)---which can also be used to mask institutional power in visions of AI-based governance. Ultimately, AI's rebranding showcases how corporate interests can rapidly reconfigure academic fields. It also brings to light how a nebulous technical term (AI) may be exploited for political gain.
